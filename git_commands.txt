@@ -1,0 +1,6 @@
+# git init
+# git add .
+# git commit -m "Add personal comment(s)"
+# git status
+# git log (hit 'q' to exit)
+# git checkout (copy/paste unique commit id)
