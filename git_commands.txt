@@ -4,3 +4,9 @@
 # git status
 # git log (hit 'q' to exit)
 # git checkout (copy/paste unique commit id)
+
+Git Remote Commands
+# git remote add origin (url)
+# git remote -v
+# git push origine master
+# git pull origin master
